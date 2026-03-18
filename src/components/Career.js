@@ -5,8 +5,7 @@ function Career() {
   return (
     <div className="career-page">
 
-      {/* FULL WIDTH IMAGE FIXED */}
-      <img className="career-banner" src="/pic/career.png" alt="career" />
+      <img className="career-banner" src="/pic/career.jpg" alt="career" />
 
       <div className="career-content container">
 
