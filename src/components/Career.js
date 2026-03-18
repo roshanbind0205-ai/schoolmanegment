@@ -5,11 +5,8 @@ function Career() {
   return (
     <div className="career-page">
 
-
-      <div className="career-banner"style={{ backgroundImage: "url('/pic/career.png')" }}>
-        
-      </div>
-
+      {/* FULL WIDTH IMAGE FIXED */}
+      <img className="career-banner" src="/pic/career.png" alt="career" />
 
       <div className="career-content container">
 
@@ -25,9 +22,7 @@ function Career() {
             careers@prnxllc.com <br/>
             Linkedin
           </p>
-
         </div>
-
 
         <div className="career-image">
           <img src="/pic/career1.png" alt="career team"/>
@@ -35,10 +30,7 @@ function Career() {
 
       </div>
 
-
-
       <div className="career-openings container">
-
         <h3>Current Openings</h3>
 
         <div className="job">
@@ -50,7 +42,6 @@ function Career() {
           <h4>Sr. AWS Engineer</h4>
           <p>Location: Arlington, Virginia, United States</p>
         </div>
-
       </div>
 
     </div>

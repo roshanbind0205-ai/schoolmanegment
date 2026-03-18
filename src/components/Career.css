@@ -1,13 +1,9 @@
 .career-banner {
-  height: 590px;
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  align-items: center;
-  padding-left: 80px;
-  color:black;
-  font-size: 32px;
-  font-weight: bold;
+  width: 100%;
+  height: 600px;
+  object-fit: cover;      
+  object-position: center;
+  display: block;
 }
 
 .career-content {
@@ -128,11 +124,6 @@
 }
 
 @media (max-width: 576px) {
-  .career-banner {
-    font-size: 28px;
-    padding-left: 20px;
-  }
-
   .career-text h2 {
     font-size: 28px;
   }
@@ -147,5 +138,9 @@
 
   .job p {
     font-size: 12px;
+  }
+
+  .career-banner {
+    height: 300px;
   }
 }
