@@ -78,36 +78,42 @@ function Home() {
         <i className="bi bi-laptop"></i>
         <h5>Computer Education</h5>
         <p>Learn modern computer skills and software.</p>
+        <img src="/pic/computer2.jpeg" ></img>
       </div>
 
       <div className="col-12 col-sm-6 col-md-4 feature-box">
         <i className="bi bi-book"></i>
         <h5>Quality Learning</h5>
         <p>Experienced teachers and practical training.</p>
+        <img src="/pic/Qulity.png"></img>
       </div>
 
       <div className="col-12 col-sm-6 col-md-4 feature-box">
         <i className="bi bi-mortarboard"></i>
         <h5>Certified Courses</h5>
         <p>Government approved certification programs.</p>
+        <img src="/pic/certified.png"></img>
       </div>
 
       <div className="col-12 col-sm-6 col-md-4 feature-box">
         <i className="bi bi-people"></i>
         <h5>Expert Trainers</h5>
         <p>Professional instructors with industry knowledge.</p>
+        <img src="/pic/export.png"></img>
       </div>
 
       <div className="col-12 col-sm-6 col-md-4 feature-box">
         <i className="bi bi-pc-display"></i>
         <h5>Practical Training</h5>
         <p>Hands-on computer lab practice.</p>
+        <img src="/pic/Practical.png"></img>
       </div>
 
       <div className="col-12 col-sm-6 col-md-4 feature-box">
         <i className="bi bi-briefcase"></i>
         <h5>Career Support</h5>
         <p>Guidance for jobs and career development.</p>
+        <img src="/pic/careers.png"></img>
       </div>
 
     </div>

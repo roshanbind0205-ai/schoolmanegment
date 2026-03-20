@@ -14,8 +14,9 @@ import {
 const services = [
   {
     icon: <FaSchool />,
-    title: "School ERP System",
+    title: "College ERP System",
     desc: "Manage students, teachers, attendance, exams, fees, accounts, transport & reports in a single dashboard."
+
   },
   {
     icon: <FaUserGraduate />,
