@@ -6,45 +6,44 @@ function Product() {
       <h1 className="product-title">College Products</h1>
 
       <p className="product-text">
-        College Management System ke main modules jisse pura college smoothly manage hota hai.
-      </p>
+Main modules of a College Management System that are essential for managing the entire college smoothly.      </p>
 
       <div className="product-card-wrapper">
 
         <div className="product-card">
           <h2>Student Management</h2>
-          <p>Student admission, profile, ID card aur academic details manage karna.</p>
+          <p>Managing student admissions, profiles, ID cards, and academic details.</p>
           <img src="/pic/product1.jpeg"></img>
         </div>
 
         <div className="product-card">
           <h2>Fees & Accounting</h2>
-          <p>Fee collection, receipts, dues aur financial reports manage karna.</p>
+          <p>Managing fee collection, receipts, pending dues, and financial reports.</p>
            <img src="/pic/product2.png"></img>
         </div>
 
         <div className="product-card">
           <h2>Attendance Tracking</h2>
-          <p>Daily/Monthly attendance aur automatic attendance reports.</p>
+          <p>Daily/Monthly attendance and automatic attendance reports.</p>
           <img src="/pic/product3.png"></img>
         </div>
 
         <div className="product-card">
           <h2>Examination System</h2>
-          <p>Exam creation, marks entry, grade system aur result generation.</p>
+          <p>Exam creation, marks entry, grading system, and result generation.</p>
           <img src="/pic/product4.png"></img>
 
         </div>
 
         <div className="product-card">
           <h2>Faculty Management</h2>
-          <p>Teachers ki details, workload aur subject allocation manage karna.</p>
+          <p>Managing teachers’ details, workload, and subject allocation.</p>
           <img src="/pic/product5.png"></img>
         </div>
 
         <div className="product-card">
           <h2>Course & Department</h2>
-          <p>UG/PG courses, departments aur subject structure manage karna.</p>
+          <p>Managing UG/PG courses, departments, and subject structure.</p>
           <img src="/pic/product6.png"></img>
         </div>
 

@@ -21,7 +21,7 @@ function About() {
             add value to businesses and individuals.
           </p>
 
-          <img src="/pic/About1.png"></img>
+          <img src="/pic/about1.png" alt=""></img>
         </div>
 
         <div className="about-card">
@@ -30,7 +30,7 @@ function About() {
             To become a trusted global brand in technology, development and
             customer experience.
           </p>
-          <img src="/pic/About2.png"></img>
+          <img src="/pic/about2.png" alt=""></img>
         </div>
 
         <div className="about-card">
@@ -39,7 +39,7 @@ function About() {
             Software Development, Digital Solutions, Web Designing, Business Growth 
             Strategy & Customized Services.
           </p>
-          <img src="/pic/About3.png"></img>
+          <img src="/pic/about3.png" alt></img>
         </div>
 
       </div>
